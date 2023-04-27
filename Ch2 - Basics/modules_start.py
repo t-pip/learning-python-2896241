@@ -3,10 +3,11 @@
 
 
 # TODO: import the math module, which contains features for working with mathematics
-
+import math
+print("The square root of 16 is ", math.sqrt(16))
 
 # TODO: the math module contains lots of pre-built functions
-
+print("pi is ", math.pi)
 
 # TODO: in addition to functions, some modules contain useful constants 
 
