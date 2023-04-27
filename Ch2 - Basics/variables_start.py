@@ -2,7 +2,7 @@
 # Example file for variables
 # LinkedIn Learning Python course by Joe Marini
 #
-
+#
 
 # Basic data types in Python: Numbers, Strings, Booleans, Sequences, Dictionaries
 myint = 5
